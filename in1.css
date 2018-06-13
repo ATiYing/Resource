@@ -1,0 +1,40 @@
+.style1{
+	font-size:25px;
+	font-weight:bold;
+}
+
+.style2{
+	font-size:15px;
+	font-weight:1000;
+	
+}
+
+.style3{
+	font-size:15px;
+	margin-left:10px;
+}
+
+.style4{
+	font-size:15px;
+	font-weight:bold;
+	margin-left:30px;
+}
+
+a:link{
+	color:blue;
+} 
+ 
+a:active{
+    color:orange;
+}
+a:visited{
+	color:pink;
+}
+
+a:hover{
+	color:lightgreen;
+}
+
+.style5{
+	font-size:15px;
+}
